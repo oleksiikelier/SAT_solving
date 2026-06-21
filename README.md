@@ -1,6 +1,6 @@
 # BabySAT SAT Solver
 
-This is a simple DPLL SAT solver with holes.
+This is a simple CDCL SAT solver which I developed during the SAT solving course in summer semester 2026.
 
 To compile run `./configure && make` for optimized compilation and
 `./configure --debug && make` if you want to include symbols and disable
@@ -16,6 +16,5 @@ configure       # The 'configure' script generates 'makefile'.
 generate        # The 'generate' script generates 'config.hpp'.
 LICENSE         # The license file (currently MIT license).
 makefile        # The actual makefile generated from 'makefile.in'.
-makefile.in     # The makefile template instantiated to 'makefile'.
 README.md       # This overview file.
 VERSION         # The version number.
