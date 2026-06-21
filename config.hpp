@@ -1,3 +1,3 @@
 #define BUILD "g++ -std=c++17 -Wall -g -DLOGGING"
-#define GITID "f573e09208687f92bed33f1e3537f2937afcdab9"
+#define GITID "6d2c06caf0d650d23bf8dee1471107fc161408cf"
 #define VERSION "0.0.0"
